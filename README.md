@@ -9,10 +9,6 @@
   <img src="./img/you are not lost you are here.png" alt="Banner" width="100%"/>
 </p>
 
-# Hi 👋, I'm Feyzan Çolak  
-
-### **M.S. in Artificial Intelligence & Data Engineering • Software Engineer • Designer**
-
 ---
 
 ## 👨‍🎓 Education  

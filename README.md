@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="banner-feyzan-colak.png" alt="Banner" width="100%"/>
+  <img src="./img/you are not lost you are here.png" alt="Banner" width="100%"/>
 </p>
 
 # Hi 👋, I'm Feyzan Çolak  

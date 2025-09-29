@@ -1,15 +1,22 @@
-# Hi 👋, I'm Feyzan Çolak  
+<table style="width:100%; border:none; border-collapse:collapse;">
+  <tr>
+    <!-- Left column: text -->
+    <td style="width:60%; vertical-align:middle; border:none;">
+      <h1>Hi 👋, I'm Feyzan Çolak</h1>
+      <h3><b>M.S. in Artificial Intelligence & Data Engineering<br/>Software Engineer • Designer</b></h3>
+    </td>
+    <!-- Right column: image -->
+    <td style="width:40%; text-align:right; vertical-align:middle; border:none;">
+      <img src="./img/image square.png" alt="Profile Banner" width="300" style="border-radius:50%;"/>
+    </td>
+  </tr>
+</table>
 
-### **M.S. in Artificial Intelligence & Data Engineering • Software Engineer • Designer**
 
----
 
-<!-- Banner -->
-<p align="center">
-  <img src="./img/you are not lost you are here.png" alt="Banner" width="100%"/>
-</p>
 
----
+
+
 
 ## 👨‍🎓 Education  
 

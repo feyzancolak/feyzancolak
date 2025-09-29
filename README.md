@@ -3,7 +3,9 @@
     <!-- Left column: text -->
     <td style="width:60%; vertical-align:middle; border:none;">
       <h1>Hi 👋, I'm Feyzan Çolak</h1>
-      <h3><b>M.S. in Artificial Intelligence & Data Engineering<br/>Software Engineer • Designer</b></h3>
+      <h3><b>M.S. in Artificial Intelligence & Data Engineering</b></h3>
+      <h3><b>Software Engineer</b></h3>
+      <h3><b>Visual Communication Designer</b></h3>
     </td>
     <!-- Right column: image -->
     <td style="width:40%; text-align:right; vertical-align:middle; border:none;">
